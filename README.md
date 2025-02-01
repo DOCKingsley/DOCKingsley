@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Kingsley
+## Hi There, I'm Kingsley
 
 <!--
 **DOCKingsley/DOCKingsley**
